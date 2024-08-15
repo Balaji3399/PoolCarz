@@ -1,0 +1,17 @@
+.container-styles{
+    width: 50%;
+    position: relative;
+    top: 130px;
+}
+
+.buttons{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn{
+    margin: 10px;
+    width: 200px;
+}
